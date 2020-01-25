@@ -4,7 +4,6 @@
 #
 %define		pdir	JSON
 %define		pnam	WebToken
-%include	/usr/lib/rpm/macros.perl
 Summary:	JSON::WebToken - JSON Web Token (JWT) implementation
 Name:		perl-JSON-WebToken
 Version:	0.10
