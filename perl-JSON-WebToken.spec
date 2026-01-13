@@ -7,7 +7,7 @@
 Summary:	JSON::WebToken - JSON Web Token (JWT) implementation
 Name:		perl-JSON-WebToken
 Version:	0.10
-Release:	1
+Release:	2
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/JSON/%{pdir}-%{pnam}-%{version}.tar.gz
